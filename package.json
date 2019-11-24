@@ -32,10 +32,9 @@
 		"vbb-stations-autocomplete": "^3.9.0"
 	},
 	"scripts": {
-		"start": "node index.js",
-		"build": "npm install --production"
+		"start": "node index.js"
 	},
-	
+
 	"devDependencies": {
 		"pino-pretty": "^2.5.0"
 	}
